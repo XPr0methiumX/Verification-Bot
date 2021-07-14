@@ -21,7 +21,3 @@ async def verifier():
   
 client.loop.create_task(verifier())
 client.run(TOKEN)
-  
-  
-  
-  
