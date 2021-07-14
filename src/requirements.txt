@@ -1,0 +1,3 @@
+discord
+sqlite3
+multicolorcaptcha
