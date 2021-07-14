@@ -1,8 +1,11 @@
 
 # Verification Bot
 [![python](https://camo.githubusercontent.com/aca88400903abe8fff0ae5af0c7242224da7a4cf17993bbe8cdd33de23f0935a/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f646973636f72642e70792e737667)](https://www.python.org/)
+
 [![discord.py](https://camo.githubusercontent.com/0199a95922cc78189df830fc41e01f2698410d8a5250debf2333f5c6d011d681/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d70792d626c75652e737667)](https://discordpy.readthedocs.io/en/stable/)
+
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://opensource.org/licenses/)
+
 [![SQLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 
