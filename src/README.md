@@ -24,7 +24,7 @@ Yes, you can modify the code and DM me on my discord (Pr0methium#0337) if you wa
 ## Installation
 
 ```bash
-  pip install -r requirements.txt
+  pip3 install -r requirements.txt
   python3 run.py
 ```
     
